@@ -1,0 +1,3 @@
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\Algorithm_Multiple.csproj.CoreCompileInputs.cache
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\Algorithm_Multiple.AssemblyInfoInputs.cache
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\Algorithm_Multiple.AssemblyInfo.cs

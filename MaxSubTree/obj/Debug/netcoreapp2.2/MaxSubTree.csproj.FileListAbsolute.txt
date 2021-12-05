@@ -1,0 +1,12 @@
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\bin\Debug\netcoreapp2.2\MaxSubTree.deps.json
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\bin\Debug\netcoreapp2.2\MaxSubTree.runtimeconfig.json
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\bin\Debug\netcoreapp2.2\MaxSubTree.runtimeconfig.dev.json
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\bin\Debug\netcoreapp2.2\MaxSubTree.dll
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\bin\Debug\netcoreapp2.2\MaxSubTree.pdb
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.csproj.CoreCompileInputs.cache
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.AssemblyInfoInputs.cache
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.AssemblyInfo.cs
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.dll
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.pdb
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.csprojAssemblyReference.cache
+C:\Users\Dai\source\repos\MaxSubTree\MaxSubTree\obj\Debug\netcoreapp2.2\MaxSubTree.genruntimeconfig.cache
